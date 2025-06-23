@@ -1,7 +1,7 @@
-## Sorting Visualizer
+# Sorting Visualizer
 A web-based interactive sorting algorithm visualizer built with HTML, CSS, and JavaScript. This project demonstrates the inner workings of popular sorting algorithms through animation, statistics tracking, and real-time code highlighting.
 
-# 🚀 Features
+## 🚀 Features
 🔘 Select from multiple sorting algorithms:
 
 Bubble Sort
@@ -20,7 +20,7 @@ Jump Sort
 
 Count Sort
 
-# 🎛 Adjustable:
+## 🎛 Adjustable:
 
 Array size (via slider)
 
@@ -42,14 +42,14 @@ Number of Swaps
 
 🎨 Clean and responsive UI for desktop and mobile
 
-# 🛠 Technologies Used
+## 🛠 Technologies Used
 HTML5
 
 CSS3 (Flexbox, Transitions, Media Queries)
 
 Vanilla JavaScript (DOM Manipulation, Asynchronous Animations)
 
-# 🧑‍💻 How to Use
+## 🧑‍💻 How to Use
 Open index.html in your browser.
 
 Select a sorting algorithm from the dropdown.
@@ -62,7 +62,7 @@ Press Start Sorting to begin visualization.
 
 Use Pause, Resume, or Reset anytime.
 
-# 📚 Educational Value
+## 📚 Educational Value
 Ideal for students and beginners learning sorting algorithms.
 
 Offers a clear visual explanation of algorithm behavior.
